@@ -1,0 +1,13 @@
+NO ./texture/daylight_detector_top.xpm
+WE ./texture/daylight_detector_top.xpm
+
+F 47,23,0
+C 72,144,255,
+
+SO ./texture/bricks.xpm
+
+EA ./texture/bookshelf_top.xpm
+
+1111
+1W01
+1111
